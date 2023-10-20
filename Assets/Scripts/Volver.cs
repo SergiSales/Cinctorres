@@ -13,7 +13,7 @@ public class Volver : MonoBehaviour
     }
 
     public void Plaza(){
-        SceneManager.LoadScene("Plaza");
+        SceneManager.LoadScene("1.Plaza");
     }
 
     public void Return(){
